@@ -11,8 +11,6 @@ FrontEnd: React | Redux | ReactNative | Bootstrap | CSS
 BackEnd: Node | Express | JavaScript
 Database: PostgreSQL | Sequelize
 
-bootstrap css3 express git html5 javascript nodejs postgresql postman react reactnative redux webpack
-
 🛠 Interested in:
 Fronted, BackEnd and FullStack
 
